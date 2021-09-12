@@ -2,7 +2,7 @@
 module.exports = {
   // TODO: change your profile information here
   name: "Harshit",
-  greeting: "Hello 👋",
+  greeting: "Hello Visitors👋",
   greetingDescription: "I'm Harshit Raj Sinha and I'm a Fresher!",
   githubUrl: "https://github.com/harshitsinha6",
   linkedinUrl: "https://www.linkedin.com/in/harshit-raj-sinha-77922516a/",
